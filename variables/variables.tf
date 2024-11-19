@@ -1,3 +1,12 @@
+# variables preferences
+# 1. command line
+# 2. terraform.tfvars
+# 3. evnvironment variables
+# 4. default
+
+
+
+
 variable "ami_id" {
   type        = string
   default     = "ami-09c813fb71547fc4f"
