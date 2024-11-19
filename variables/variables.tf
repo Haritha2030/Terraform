@@ -1,7 +1,7 @@
 # variables preferences
 # 1. command line
 # 2. terraform.tfvars
-# 3. evnvironment variables
+# 3. evnvironment variables   , give export TF_VAR_istance_type=t3.xlarge in the command line 
 # 4. default
 
 
